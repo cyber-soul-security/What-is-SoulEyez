@@ -11,10 +11,7 @@
 
 </div>
 
-
-
-## 🔥 What is SoulEyez?
-
+## 🔥 What is SoulEyez? <br>
 **SoulEyez** is a next-generation **CLI toolkit for pentesters**, designed to give you enhanced visibility, automation, and speed during offensive security engagements.
 
 This repo currently contains concept documentation and early foundations as we build toward our first alpha release.
@@ -69,7 +66,8 @@ Creator of SoulEyez
 📧 Email: cysoul.secit@gmail.com  
 🌐 Website: https://cybersoulsecurity.com  
 
----
-
 <!-- ================= FOOTER ================= -->
-![footer](https://capsule-render.vercel.app/api?type=venom&color=0:001F3F,100:87CEEB&section=footer&height=200&fontColor=ffffff)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:87CEEB&height=200&section=footer&reversal=false" alt="SoulEyez Footer" />
+</p>
+

@@ -13,16 +13,13 @@ Visualize attack paths, manage engagements, and build real-world portfolios.
 - Learning Integration with CyberSoul Courses
 
 ## 🚀Get Started
-*COMING SOON* [Installation Guide](link)
-*COMING SOON* [Documentation](link)
-*COMING SOON* [Releases](link)
+*COMING SOON* [Installation Guide](link)  *COMING SOON* [Documentation](link)  *COMING SOON* [Releases](link)
 
 ## 🛣️Roadmap
 *COMING SOON* Check out the official roadmap: /community/ROADMAP.md
 
 ## 🫱🏽‍🫲🏾Contributing
-We welcome community contributions! Whether you’re fixing a bug, improving documentation, or adding new features, your help strengthens the SoulEyez ecosystem and empowers the global Soul Hacker community.
-*COMING SOON* See `/community/CONTRIBUTING.md`.
+We welcome community contributions! Whether you’re fixing a bug, improving documentation, or adding new features, your help strengthens the SoulEyez ecosystem and empowers the global Soul Hacker community.  *COMING SOON* See `/community/CONTRIBUTING.md`.
 
 ## ⚔️Security
 Report vulnerabilities: cysoul.secit@gmail.com

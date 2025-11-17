@@ -1,78 +1,80 @@
-<!-- ================= BLACK FULL-SCREEN BACKGROUND ================= -->
+<!-- ================= HEADER BLOB ================= -->
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:001F3F,100:87CEEB&height=300&section=header&text=SoulEyez&fontSize=90&animation=twinkling&fontColor=ffffff)
+
 <p align="center">
-  <svg width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="#000000"/>
-  </svg>
+  <strong style="color:#001F3F;">👁️ SoulEyez — The Pentester's Command-Line Sixth Sense</strong><br>
+  <em style="color:#555555;">Early Work-In-Progress — Built by CyberSoul SecurITy</em>
 </p>
 
-<!-- ================= CYBERPUNK HEADER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=260&text=SoulEyez&fontSize=90&fontColor=00eaff&animation=twinkling&stroke=00eaff&strokeWidth=2"/>
-</p>
+---
 
-<!-- ================= GLITCH TITLE ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1800&pause=600&color=00E7FF&center=true&vCenter=true&width=600&lines=The+Pentester's+Sixth+Sense;Command-Line+Cyber+Awareness;Offensive+Automation+Reimagined" />
-</p>
+## 🔥 What is SoulEyez?
 
-<!-- ================= BLACK BODY BLOCK (CONTENT CONTAINER) ================= -->
-<svg width="100%" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#000000"/>
-  <foreignObject x="0" y="0" width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="color:#e6e6e6; padding: 20px;">
+**SoulEyez** is a next-generation **CLI toolkit for pentesters**, designed to give you enhanced visibility, automation, and speed during offensive security engagements.
 
-<h2 style="color:#00eaff;">🔥 What is SoulEyez?</h2>
-<p>
-SoulEyez is a next-generation <strong>cyberpunk-themed CLI toolkit</strong> for pentesters.
-It enhances visibility, automates recon, and accelerates offensive operations.
-</p>
+This repo currently contains concept documentation and early foundations as we build toward our first alpha release.
 
-<hr color="#00eaff"/>
+---
 
-<h2 style="color:#00eaff;">🧪 Project Status — WIP</h2>
-<ul>
-  <li>🔧 Command-line engine</li>
-  <li>🧩 Modular plugin system</li>
-  <li>🚦 Environment-aware automation</li>
-  <li>🛡️ Safety checks + usage guardrails</li>
-  <li>🪜 Tiered pricing model</li>
-</ul>
+## 🧪 Project Status — *Work In Progress*
 
-<h3 style="color:#00eaff;">Repo Will Include:</h3>
-<ul>
-  <li>/docs — documentation</li>
-  <li>/cli-preview — command examples</li>
-  <li>/roadmap — features & timeline</li>
-  <li>/design — UX & flow</li>
-  <li>/branding — neon cyber assets</li>
-</ul>
+We’re actively building:
 
-<hr color="#00eaff"/>
+- 🔧 Command-line engine  
+- 🧩 Modular plugin system  
+- 🚦 Environment-aware automation  
+- 🛡️ Safety checks & usage guardrails  
+- 🪜 Tiered pricing model (Free • Pro • Enterprise)
 
-<h2 style="color:#00eaff;">🫱🏽‍🫲🏾 Contributing</h2>
-<p>We welcome contributions — ideas, prototypes, docs, PRs, all of it.</p>
+This repo will grow to include:
 
-<hr color="#00eaff"/>
+- `/docs` — product documentation  
+- `/cli-preview` — early command examples  
+- `/roadmap` — feature roadmap  
+- `/branding` — logos, banners, and styling  
+- `/design` — UX/flow concepts for the CLI  
 
-<h2 style="color:#00eaff;">📲 Contact</h2>
-<p>
-<strong>CyberSoul SecurITy</strong><br/>
-Creator of SoulEyez<br/>
-📧 cysoul.secit@gmail.com<br/>
-🌐 cybersoulsecurity.com
-</p>
+Optional future directories:
 
-    </div>
-  </foreignObject>
-</svg>
+- `/examples` — demo workflows  
+- `/integrations` — Burp, Zap, API hooks  
+- `/extensions` — community modules  
+- `/themes` — CLI color & UX themes  
+
+---
+
+## 🫱🏽‍🫲🏾 Contributing
+
+We welcome contributions from the community!  
+
+You can contribute by:
+
+- Opening issues  
+- Submitting PRs  
+- Suggesting features  
+- Prototyping ideas  
+- Improving docs  
+
+---
+
+## 🧠 Tech Vision
+
+SoulEyez is built on three core principles:
+
+1. **Clarity** — Make offensive security work faster, safer, and easier  
+2. **Power** — Provide supercharged CLI functionality  
+3. **Soul** — Tools should feel good to use, not just functional  
+
+---
+
+## 📲 Contact
+
+**CyberSoul SecurITy**  
+Creator of SoulEyez  
+📧 Email: cysoul.secit@gmail.com  
+🌐 Website: https://cybersoulsecurity.com  
+
+---
 
 <!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&section=footer&color=000000&height=180&fontColor=00eaff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <svg width="100%" height="80">
-    <rect width="100%" height="100%" fill="#000000"/>
-  </svg>
-</p>
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:001F3F,100:87CEEB&section=footer&height=200&fontColor=ffffff)

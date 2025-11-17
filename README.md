@@ -1,12 +1,17 @@
-<!-- ================= HEADER BLOB ================= -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:001F3F,100:87CEEB&height=300&section=header&text=SoulEyez&fontSize=90&animation=twinkling&fontColor=000000)
+<!-- ================= HEADER + TAGLINE ================= -->
+<table align="center">
+  <tr>
+    <td align="center">
 
-<!-- ================= TAGLINE ================= -->
-<!-- ================= TAGLINE ================= -->
-<div align="center">
-👁️SoulEyez — The Pentester's Command-Line Sixth Sense <br>  
-  <i>See through the eyes of a Soul Hacker</i>
-</div>
+      <!-- Header Image -->
+      ![header](https://capsule-render.vercel.app/api?type=venom&color=0:001F3F,100:87CEEB&height=300&section=header&text=SoulEyez&fontSize=90&animation=twinkling&fontColor=000000)
+
+      <!-- Tagline -->
+      <br>
+      👁️SoulEyez — The Pentester's Command-Line Sixth Sense <br> <i>See through the eyes of a Soul Hacker</i>
+    </td>
+  </tr>
+</table>
 
 
 ## 🔥 What is SoulEyez?

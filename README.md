@@ -18,11 +18,11 @@ Visualize attack paths, manage engagements, and build real-world portfolios.
 *COMING SOON* [Releases](link)
 
 ## 🛣️Roadmap
-Check out the official roadmap: /community/ROADMAP.md
+*COMING SOON* Check out the official roadmap: /community/ROADMAP.md
 
 ## 🫱🏽‍🫲🏾Contributing
 We welcome community contributions! Whether you’re fixing a bug, improving documentation, or adding new features, your help strengthens the SoulEyez ecosystem and empowers the global Soul Hacker community.
-See `/community/CONTRIBUTING.md`.
+*COMING SOON* See `/community/CONTRIBUTING.md`.
 
 ## ⚔️Security
 Report vulnerabilities: cysoul.secit@gmail.com

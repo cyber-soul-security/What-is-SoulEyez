@@ -3,7 +3,9 @@
 
 <!-- ================= TYPING TAGLINE ================= -->
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=001F3F&center=true&vCenter=true&multiline=true&width=700&lines=%F0%9F%91%81%EF%B8%8F+SoulEyez+%E2%80%94+The+Pentester%27s+Command-Line+Sixth+Sense;Early+Work-In-Progress+%E2%80%94+Built+by+CyberSoul+SecurITy)](https://git.io/typing-svg)
+```bash
+$ 👁️ SoulEyez — The Pentesters Command-Line Sixth Sense_
+
 </p>
 
 ---

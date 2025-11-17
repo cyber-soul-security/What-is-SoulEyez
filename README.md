@@ -1,7 +1,5 @@
 <!-- ================= HEADER BLOB ================= -->
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:001F3F,100:87CEEB&height=300&section=header&text=SoulEyez&fontSize=90&animation=twinkling&fontColor=000000&width=1200)
-</div>
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:001F3F,100:87CEEB&height=300&section=header&text=SoulEyez&fontSize=90&animation=twinkling&fontColor=000000)
 
 <!-- ================= TAGLINE ================= -->
 <!-- ================= TAGLINE ================= -->

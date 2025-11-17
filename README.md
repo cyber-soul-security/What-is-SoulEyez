@@ -1,5 +1,5 @@
 <!-- ================= HEADER BLOB ================= -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:001F3F,100:87CEEB&height=300&section=header&text=SoulEyez&fontSize=90&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:001F3F,100:87CEEB&height=300&section=header&text=SoulEyez&fontSize=90&animation=twinkling&fontColor=000000)
 
 <p align="center">
   <strong style="color:#001F3F;">👁️ SoulEyez — The Pentester's Command-Line Sixth Sense</strong><br>

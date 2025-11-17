@@ -2,7 +2,8 @@
 <div align="center">
 
   <!-- Header Image -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:001F3F,100:87CEEB&height=300&section=header&text=SoulEyez&fontSize=90&animation=twinkling&fontColor=000000" alt="SoulEyez Header">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:001F3F,100:87CEEB&height=300&section=header&text=SoulEyez&fontSize=90&animation=twinkling&fontColor=000000&fontFamily=Monaco
+" alt="SoulEyez Header">
 
   <!-- Tagline -->
   <p style="margin-top: 15px; font-size: 20px; font-style: italic;">

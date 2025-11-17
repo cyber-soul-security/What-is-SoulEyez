@@ -3,7 +3,8 @@
 
 <!-- ================= TYPING TAGLINE ================= -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=001F3F&center=true&width=800&lines=👁️ SoulEyez — The Pentester's Command-Line Sixth Sense;Gradient+neon+separators+between+sections;Glow+effect+on+icons+and+headings;ASCII+logo+at+top" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=001F3F&center=true&width=800&lines=👁️ SoulEyez — The Pentester's Command-Line Sixth Sense;Early Work-In-Progress — Built by CyberSoul SecurITy" 
+  />
 </p>
 
 ---

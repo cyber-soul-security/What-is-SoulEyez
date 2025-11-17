@@ -1,5 +1,7 @@
+<div style="background-color:#000000; padding: 20px;">
+  
 <!-- ======================= HEADER ======================= -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=SoulEyez&fontSize=90&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=venom&color=000000&height=300&section=header&text=SoulEyez&fontSize=90&fontColor=ffffff)
 
 <p align="center">
   <strong>👁️ SoulEyez • The Pentester's Command-Line Sixth Sense</strong><br>
@@ -79,3 +81,6 @@ Creator of SoulEyez
 
 <!-- ======================= FOOTER ======================= -->
 ![footer](https://capsule-render.vercel.app/api?type=venom&color=gradient&section=footer&height=200&animation=fadeIn&fontColor=ffffff)
+
+</div>
+

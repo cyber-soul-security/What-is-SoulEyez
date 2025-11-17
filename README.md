@@ -4,11 +4,10 @@
 <!-- ================= TAGLINE ================= -->
 <p align="center">
 
-# 👁️ *SoulEyez — The Pentester's Command-Line Sixth Sense*  
-### *See through the eyes of a Soul Hacker*
+👁️SoulEyez — The Pentester's Command-Line Sixth Sense*  
+*See through the eyes of a Soul Hacker*
 
 </p>
----
 ---
 
 ## 🔥 What is SoulEyez?

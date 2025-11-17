@@ -3,8 +3,7 @@
 
 <!-- ================= TYPING TAGLINE ================= -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=001F3F&center=true&width=800&lines=👁️ SoulEyez — The Pentester's Command-Line Sixth Sense;Early Work-In-Progress — Built by CyberSoul SecurITy" 
-  />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=700&color=14475D&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%91%81%EF%B8%8F+SoulEyez+%E2%80%94+The+Pentester's+Command-Line+Sixth+Sense;Early+Work-In-Progress+%E2%80%94+Built+by+CyberSoul+SecurITy)](https://git.io/typing-svg)
 </p>
 
 ---

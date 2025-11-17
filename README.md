@@ -1,9 +1,11 @@
-# 👁️ SoulEyez — AI-Powered Attack Path Intelligence Platform
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=👁️ SoulEyez — AI-Powered Attack Path Intelligence Platform🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-SoulEyez is a privacy-first AI tool for penetration testers, purple teamers, and cybersecurity learners.
-Visualize attack paths, manage engagements, and build real-world portfolios.
+# SoulEyez is a privacy-first AI tool for penetration testers, purple teamers, and cybersecurity learners.
+# Visualize attack paths, manage engagements, and build real-world portfolios.
 
-*The name "SoulIze" embodies our mission: To help users visualize attack paths, realize their potential, and see through the soul's eyes - perceiving what others cannot.*
+## *The name "SoulIze" embodies our mission: To help users visualize attack paths, realize their potential, and see through the soul's eyes - perceiving what others cannot.*
 
 ## 🌟Key Features
 - Local AI Attack Path Intelligence

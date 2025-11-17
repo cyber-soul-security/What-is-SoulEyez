@@ -1,56 +1,60 @@
-<div style="background-color:#000000; padding: 20px;">
-  
-<!-- ======================= HEADER ======================= -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=000000&height=300&section=header&text=SoulEyez&fontSize=90&fontColor=ffffff)
+<!-- ====== BLACK TOP BAR ====== -->
+<p align="center">
+  <img src="https://via.placeholder.com/2000x5/000000/000000" />
+</p>
+
+<!-- ====== HEADER ====== -->
+![header](https://capsule-render.vercel.app/api?type=venom&color=000000&height=260&section=header&text=SoulEyez&fontSize=85&animation=twinkling&fontColor=ffffff)
 
 <p align="center">
-  <strong>👁️ SoulEyez • The Pentester's Command-Line Sixth Sense</strong><br>
-  <em>Early Work-In-Progress — Built by CyberSoul SecurITy</em>
+  <strong><span style="color:#ffffff;">👁️ SoulEyez — The Pentester's Command-Line Sixth Sense</span></strong><br>
+  <em><span style="color:#aaaaaa;">Early Work-In-Progress — Built by CyberSoul SecurITy</span></em>
 </p>
 
 ---
 
-## 🔥 What is SoulEyez?
+## <span style="color:#ffffff;">🔥 What is SoulEyez?</span>
 
-**SoulEyez** is a next-generation **CLI toolkit for pentesters**, designed to give you enhanced visibility, automation, and speed during offensive security engagements.
+<span style="color:#cccccc;">
+SoulEyez is a next-generation <strong>CLI toolkit for pentesters</strong> designed to amplify visibility, automate repetitive tasks, and speed up offensive security workflows.
+</span>
 
-This repo currently contains background info, concept design, and early documentation — as we build toward our first alpha release.
-
-Stay tuned. The CLI is evolving. 🧪
+<span style="color:#cccccc;">
+This repo currently contains concept documentation and early foundations as we build toward our first alpha release.
+</span>
 
 ---
 
-## 🧪 Current Status: *Work In Progress*
-We're actively building:
+## <span style="color:#ffffff;">🧪 Project Status — *WIP*</span>
 
-- 🔧 Command-line engine  
-- 🧩 Modular plugin system  
-- 🚦 Environment-aware automation  
-- 🛡️ Safety checks + usage guardrails  
-- 🪜 Tiered pricing model (Free • Pro • Enterprise)
+<span style="color:#cccccc;">We're actively building:</span>
 
-This repo will grow to include:
+- <span style="color:#9be7ff;">🔧 Command-line engine</span>  
+- <span style="color:#9be7ff;">🧩 Modular plugin system</span>  
+- <span style="color:#9be7ff;">🚦 Environment-aware automation</span>  
+- <span style="color:#9be7ff;">🛡️ Safety checks & guardrails</span>  
+- <span style="color:#9be7ff;">🪜 Tiered pricing model (Free, Pro, Enterprise)</span>
+
+<span style="color:#cccccc;">This repo will grow to include:</span>
 
 - `/docs` — product documentation  
 - `/cli-preview` — early command examples  
-- `/roadmap` — technical and feature roadmap  
-- `/branding` — logos, banners, and styling  
-- `/design` — UX/flow concepts for the CLI  
+- `/roadmap` — feature roadmap  
+- `/branding` — logos & banners  
+- `/design` — CLI UX concepts  
 
-If you want additional repo ideas, here are **optional folders** to create:
+<span style="color:#cccccc;">Optional future directories:</span>
 
-- `/examples` — demo usage & workflows  
+- `/examples` — demo workflows  
 - `/integrations` — Burp, Zap, API hooks  
-- `/extensions` — community modules  
-- `/themes` — CLI color & UX themes  
+- `/extensions` — community add-ons  
+- `/themes` — CLI color themes  
 
 ---
 
-## 🫱🏽‍🫲🏾 Contributing
+## <span style="color:#ffffff;">🫱🏽‍🫲🏾 Contributing</span>
 
-We welcome contributions from the community!
-
-If you're interested in helping shape SoulEyez, you can contribute by:
+<span style="color:#cccccc;">We welcome contributions! You can help by:</span>
 
 - Opening issues  
 - Submitting PRs  
@@ -60,27 +64,31 @@ If you're interested in helping shape SoulEyez, you can contribute by:
 
 ---
 
-## 🧠 Tech Vision
+## <span style="color:#ffffff;">🧠 Tech Vision</span>
 
-SoulEyez is being built with three core principles:
+<span style="color:#cccccc;">SoulEyez is built on three principles:</span>
 
-1. **Clarity** — Make offensive security work faster, safer, and easier.  
-2. **Power** — Provide supercharged CLI functionality.  
-3. **Soul** — Tools should feel good to use, not just functional.
+1. **Clarity** — Simplify complex offensive workflows  
+2. **Power** — Provide supercharged CLI functionality  
+3. **Soul** — Tools should feel good to use, not just functional  
 
 ---
 
-## 📲 Contact
+## <span style="color:#ffffff;">📲 Contact</span>
 
-**CyberSoul SecurITy**  
+<span style="color:#cccccc;">
+<strong>CyberSoul SecurITy</strong><br>
 Creator of SoulEyez  
-📧 Email: cysoul.secit@gmail.com 
-🌐 Website: https://cybersoulsecurity.com
+📧 Email: cysoul.secit@gmail.com<br>
+🌐 Website: https://cybersoulsecurity.com  
+</span>
 
 ---
 
-<!-- ======================= FOOTER ======================= -->
-![footer](https://capsule-render.vercel.app/api?type=venom&color=gradient&section=footer&height=200&animation=fadeIn&fontColor=ffffff)
+<!-- ====== FOOTER ====== -->
+![footer](https://capsule-render.vercel.app/api?type=venom&color=000000&section=footer&height=200&fontColor=ffffff)
 
-</div>
-
+<!-- ====== BLACK BOTTOM BAR ====== -->
+<p align="center">
+  <img src="https://via.placeholder.com/2000x5/000000/000000" />
+</p>

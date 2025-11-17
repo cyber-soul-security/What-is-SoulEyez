@@ -1,13 +1,12 @@
 <!-- ================= HEADER BLOB ================= -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:001F3F,100:87CEEB&height=300&section=header&text=SoulEyez&fontSize=90&animation=twinkling&fontColor=000000&width=1200)
 
-<!-- ================= TYPING TAGLINE ================= -->
+<!-- ================= TAGLINE ================= -->
 <p align="center">
-```bash
-$ 👁️ SoulEyez — The Pentester's Command-Line Sixth Sense_
-```
+  
+## *👁️ SoulEyez — The Pentester's Command-Line Sixth Sense*
+  ## *See through the eyes of a Soul Hacker*
 </p>
-
 ---
 
 ## 🔥 What is SoulEyez?

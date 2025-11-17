@@ -6,7 +6,7 @@
 
   <!-- Tagline -->
   <p style="margin-top: 15px; font-size: 20px; font-style: italic;">
-    👁️ SoulEyez — The Pentester's Command-Line Sixth Sense — See through the eyes of a Soul Hacker
+    👁️ SoulEyez — The Pentester's Command-Line Sixth Sense <br> <i>See through the eyes of a Soul Hacker</i>
   </p>
 
 </div>

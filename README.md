@@ -1,9 +1,9 @@
 <!-- ================= HEADER BLOB ================= -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:001F3F,100:87CEEB&height=300&section=header&text=SoulEyez&fontSize=90&animation=twinkling&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:001F3F,100:87CEEB&height=300&section=header&text=SoulEyez&fontSize=90&animation=twinkling&fontColor=000000&width=1200)
 
+<!-- ================= TYPING TAGLINE ================= -->
 <p align="center">
-  <strong style="color:#001F3F;">👁️ SoulEyez — The Pentester's Command-Line Sixth Sense</strong><br>
-  <em style="color:#555555;">Early Work-In-Progress — Built by CyberSoul SecurITy</em>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=001F3F&center=true&width=800&lines=👁️ SoulEyez — The Pentester's Command-Line Sixth Sense;Gradient+neon+separators+between+sections;Glow+effect+on+icons+and+headings;ASCII+logo+at+top" />
 </p>
 
 ---

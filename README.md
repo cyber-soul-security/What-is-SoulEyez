@@ -24,7 +24,6 @@ This repo currently contains concept documentation and early foundations as we b
 ## 🧪 Project Status — *Work In Progress*
 
 We’re actively building:
-
 - 🔧 Command-line engine  
 - 🧩 Modular plugin system  
 - 🚦 Environment-aware automation  
@@ -32,19 +31,11 @@ We’re actively building:
 - 🪜 Tiered pricing model (Free • Pro • Enterprise)
 
 This repo will grow to include:
-
 - `/docs` — product documentation  
 - `/cli-preview` — early command examples  
 - `/roadmap` — feature roadmap  
 - `/branding` — logos, banners, and styling  
 - `/design` — UX/flow concepts for the CLI  
-
-Optional future directories:
-
-- `/examples` — demo workflows  
-- `/integrations` — Burp, Zap, API hooks  
-- `/extensions` — community modules  
-- `/themes` — CLI color & UX themes  
 
 ---
 
@@ -53,7 +44,6 @@ Optional future directories:
 We welcome contributions from the community!  
 
 You can contribute by:
-
 - Opening issues  
 - Submitting PRs  
 - Suggesting features  

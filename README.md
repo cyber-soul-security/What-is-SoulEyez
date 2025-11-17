@@ -4,7 +4,8 @@
 <!-- ================= TAGLINE ================= -->
 <!-- ================= TAGLINE ================= -->
 <div align="center">
-👁️ <i>SoulEyez — The Pentester's Command-Line Sixth Sense — See through the eyes of a Soul Hacker</i>
+👁️SoulEyez — The Pentester's Command-Line Sixth Sense  
+  <i>See through the eyes of a Soul Hacker</i>
 </div>
 
 

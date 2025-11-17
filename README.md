@@ -4,8 +4,8 @@
 <!-- ================= TYPING TAGLINE ================= -->
 <p align="center">
 ```bash
-$ 👁️ SoulEyez — The Pentesters Command-Line Sixth Sense_
-
+$ 👁️ SoulEyez — The Pentester's Command-Line Sixth Sense_
+```
 </p>
 
 ---

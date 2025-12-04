@@ -109,13 +109,13 @@ You can contribute by:
 - Prototyping ideas  
 - Improving docs
 
-  Please review:
+**_Please review:_**
   
-📄 SECURITY.md – security review details
+📄 **SECURITY.md** – security review details
 
-📄 CHANGELOG.md – latest updates
+📄 **CHANGELOG.md** – latest updates
 
-📄 docs/ – documentation and architecture insights
+📄 **docs/** – documentation and architecture insights
 
 
 ---

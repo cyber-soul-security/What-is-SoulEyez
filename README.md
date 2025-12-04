@@ -12,9 +12,10 @@
 </div>
 
 ## 🔥 What is SoulEyez? <br>
-**SoulEyez** is a next-generation **CLI toolkit for pentesters**, designed to give you enhanced visibility, automation, and speed during offensive security engagements.
+**SoulEyez is a next-generation CLI toolkit for pentesters, designed to bring enhanced visibility, automation, intelligence, and speed to offensive security engagements.**
+Built for clarity. Powered for performance. Crafted with soul.
 
-This repo currently contains concept documentation and early foundations as we build toward our first alpha release.
+This repo contains concept documentation, architecture foundations, and early components as we move toward our first **alpha release.**
 
 ---
 
@@ -33,6 +34,30 @@ This repo will grow to include:
 - `/roadmap` — feature roadmap  
 - `/branding` — logos, banners, and styling  
 - `/design` — UX/flow concepts for the CLI  
+
+---
+## ⚙️ Core Capabilities
+
+🎯 Interactive Dashboard — Real-time engagement monitoring with live updates
+🔗 Smart Tool Chaining — Automatic follow-up scans based on discoveries
+📊 Findings Management — Track and categorize vulnerabilities by severity
+🔑 Credential Tracking — Discover and organize enumerated usernames and passwords
+🔐 Credential Encryption — Encrypt credential storage with master password protection
+💥 Password Cracking — Offline hash cracking with Hashcat (300+ hash types)
+🌐 Network Mapping — Host discovery and service enumeration
+📈 Progress Tracking — Monitor scan completion and tool execution
+💾 SQLite Storage — Local database for all engagement data
+🔄 Background Jobs — Queue-based tool execution with status monitoring
+
+## 🧠 Pentest Workflow & Intelligence
+
+📁 Evidence Vault — Unified artifact collection organized by PTES methodology phases
+🎯 Attack Surface Dashboard — Track exploited vs pending with priority scoring
+💣 Exploit Suggestions — Automatic CVE + Metasploit module recommendations for discovered services
+🔗 Correlation Engine — Cross-phase attack tracking and gap analysis
+📝 Report Generator — One-click professional reports in Markdown, HTML, and PDF
+✅ Deliverable Tracking — Manage testing requirements and acceptance criteria
+📸 Screenshot Management — Organized visual evidence by methodology phase
 
 ---
 

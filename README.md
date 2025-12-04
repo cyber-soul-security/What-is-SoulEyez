@@ -32,9 +32,9 @@ We’re actively building:
 - 🔑 Credential handling improvements
 - 🧠 AI-driven navigation + automation
 
-This repo includes:
+The repo will include:
 
-/.github/workflows     - CI/CD automation  
+/.github/workflows  &nbsp;&nbsp;&nbsp;&nbsp;   - CI/CD automation  
 /data                  - Engagement data, storage models  
 /docs                  - Full documentation + chain rule priority explanations  
 /msf_resources         - Metasploit modules, mappings, exploit data  

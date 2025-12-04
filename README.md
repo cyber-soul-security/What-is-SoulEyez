@@ -12,7 +12,8 @@
 </div>
 
 ## 🔥 What is SoulEyez? <br>
-**SoulEyez is a next-generation CLI toolkit for pentesters, designed to bring enhanced visibility, automation, intelligence, and speed to offensive security engagements.** \n
+**SoulEyez is a next-generation CLI toolkit for pentesters, designed to bring enhanced visibility, automation, intelligence, and speed to offensive security engagements.**
+
 Built for _clarity_. Powered for _performance_. Crafted with _soul_.
 
 This repo contains concept documentation, architecture foundations, and early components as we move toward our first **alpha release.**

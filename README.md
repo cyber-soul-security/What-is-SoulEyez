@@ -28,13 +28,32 @@ We’re actively building:
 - 🚦 Environment-aware automation  
 - 🛡️ Safety checks & usage guardrails  
 - 🪜 Tiered pricing model (Free • Pro • Enterprise)
+- ⚙ Worker engine for background jobs
+- 🔑 Credential handling improvements
+- 🧠 AI-driven navigation + automation
 
-This repo will grow to include:
-- `/docs` — product documentation  
-- `/cli-preview` — early command examples  
-- `/roadmap` — feature roadmap  
-- `/branding` — logos, banners, and styling  
-- `/design` — UX/flow concepts for the CLI  
+This repo includes:
+
+/.github/workflows     - CI/CD automation  
+/data                  - Engagement data, storage models  
+/docs                  - Full documentation + chain rule priority explanations  
+/msf_resources         - Metasploit modules, mappings, exploit data  
+/souleyez              - Primary CLI source code + plugin system  
+/tests                 - Automated testing, AI execution, navigation helpers  
+.bandit                - Security scanning configuration  
+.env.example           - Environment variable template  
+.flake8                - Linting rules  
+.gitignore             - Git exclusions  
+CHANGELOG.md           - Version history + enhancements  
+LICENSE                - Open-source license  
+Makefile               - Developer tooling  
+OWASP_EXPANSION_SUMMARY.md - Extended OWASP A03 coverage + presets  
+SECURITY.md            - Security review + P2 hardening  
+pyproject.toml         - Build + dependency configuration  
+requirements.txt        - Python dependencies  
+setup-git-hooks.sh      - Repo hygiene & dev workflow setup  
+setup.py                - Package installer  
+
 
 ---
 ## ⚙️ Core Capabilities
@@ -71,7 +90,12 @@ You can contribute by:
 - Submitting PRs  
 - Suggesting features  
 - Prototyping ideas  
-- Improving docs  
+- Improving docs
+
+  Please review:
+📄 SECURITY.md – security review details
+📄 CHANGELOG.md – latest updates
+📄 docs/ – documentation and architecture insights
 
 ---
 

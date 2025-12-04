@@ -110,9 +110,13 @@ You can contribute by:
 - Improving docs
 
   Please review:
+  
 📄 SECURITY.md – security review details
+
 📄 CHANGELOG.md – latest updates
+
 📄 docs/ – documentation and architecture insights
+
 
 ---
 

@@ -34,25 +34,25 @@ We’re actively building:
 
 The repo will include:
 
-/.github/workflows  &nbsp;&nbsp;&nbsp;&nbsp;   - CI/CD automation  
-/data                  - Engagement data, storage models  
-/docs                  - Full documentation + chain rule priority explanations  
-/msf_resources         - Metasploit modules, mappings, exploit data  
-/souleyez              - Primary CLI source code + plugin system  
-/tests                 - Automated testing, AI execution, navigation helpers  
-.bandit                - Security scanning configuration  
-.env.example           - Environment variable template  
-.flake8                - Linting rules  
-.gitignore             - Git exclusions  
-CHANGELOG.md           - Version history + enhancements  
-LICENSE                - Open-source license  
-Makefile               - Developer tooling  
-OWASP_EXPANSION_SUMMARY.md - Extended OWASP A03 coverage + presets  
-SECURITY.md            - Security review + P2 hardening  
-pyproject.toml         - Build + dependency configuration  
-requirements.txt        - Python dependencies  
-setup-git-hooks.sh      - Repo hygiene & dev workflow setup  
-setup.py                - Package installer  
+**/.github/workflows**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   - CI/CD automation  
+**/data**        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         - Engagement data, storage models  
+**/docs**        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         - Full documentation + chain rule priority explanations  
+**/msf_resources**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     - Metasploit modules, mappings, exploit data  
+**/souleyez**     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       - Primary CLI source code + plugin system  
+**/tests**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        - Automated testing, AI execution, navigation helpers  
+**.bandit**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        - Security scanning configuration  
+**.env.example**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      - Environment variable template  
+**.flake8**      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         - Linting rules  
+**.gitignore**      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      - Git exclusions  
+**CHANGELOG.md**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      - Version history + enhancements  
+**LICENSE**       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        - Open-source license  
+**Makefile**      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       - Developer tooling  
+**OWASP_EXPANSION_SUMMARY.md** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Extended OWASP A03 coverage + presets  
+**SECURITY.md**      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      - Security review + P2 hardening  
+**pyproject.toml**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     - Build + dependency configuration  
+**requirements.txt**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    - Python dependencies  
+**setup-git-hooks.sh**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   - Repo hygiene & dev workflow setup  
+**setup.py**        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       - Package installer  
 
 
 ---

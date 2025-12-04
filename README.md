@@ -59,25 +59,42 @@ The repo will include:
 ## ⚙️ Core Capabilities
 
 🎯 Interactive Dashboard — Real-time engagement monitoring with live updates
+
 🔗 Smart Tool Chaining — Automatic follow-up scans based on discoveries
+
 📊 Findings Management — Track and categorize vulnerabilities by severity
+
 🔑 Credential Tracking — Discover and organize enumerated usernames and passwords
+
 🔐 Credential Encryption — Encrypt credential storage with master password protection
+
 💥 Password Cracking — Offline hash cracking with Hashcat (300+ hash types)
+
 🌐 Network Mapping — Host discovery and service enumeration
+
 📈 Progress Tracking — Monitor scan completion and tool execution
+
 💾 SQLite Storage — Local database for all engagement data
+
 🔄 Background Jobs — Queue-based tool execution with status monitoring
+
 
 ## 🧠 Pentest Workflow & Intelligence
 
 📁 Evidence Vault — Unified artifact collection organized by PTES methodology phases
+
 🎯 Attack Surface Dashboard — Track exploited vs pending with priority scoring
+
 💣 Exploit Suggestions — Automatic CVE + Metasploit module recommendations for discovered services
+
 🔗 Correlation Engine — Cross-phase attack tracking and gap analysis
+
 📝 Report Generator — One-click professional reports in Markdown, HTML, and PDF
+
 ✅ Deliverable Tracking — Manage testing requirements and acceptance criteria
+
 📸 Screenshot Management — Organized visual evidence by methodology phase
+
 
 ---
 

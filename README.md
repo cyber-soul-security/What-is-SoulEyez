@@ -133,7 +133,7 @@ SoulEyez is built on three core principles:
 ## 📲 Contact
 
 **CyberSoul SecurITy**  
-Creator of SoulEyez  
+_Creator of SoulEyez_  
 📧 Email: cysoul.secit@gmail.com  
 🌐 Website: https://cybersoulsecurity.com  
 

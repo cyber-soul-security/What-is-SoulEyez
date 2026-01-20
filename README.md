@@ -121,9 +121,21 @@ Instead of juggling dozens of terminal windows, notes, and output files, SoulEye
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Quick Start at https://pypi.org/project/souleyez/ 
 
-check out https://pypi.org/project/souleyez/ 
+## 🔐 Security & Encryption
+- Credentials encrypted using Fernet (AES-128-CBC + HMAC-SHA256)
+- PBKDF2 key derivation (600,000 iterations)
+- Master password is never stored
+- Sensitive data masked until explicitly revealed
+
+## 📲 Support & Contact
+
+CyberSoul SecurITy
+Creator & Maintainer
+📧 cysoul.secit@gmail.com
+🌐 https://cybersoulsecurity.com
+🐞 Issues: GitHub Issues tab
 
 
 

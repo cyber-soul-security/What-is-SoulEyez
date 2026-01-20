@@ -1,144 +1,130 @@
 <!-- ================= HEADER + TAGLINE ================= -->
 <div align="center">
 
-  <!-- Header Image -->
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:001F3F,100:87CEEB&height=300&section=header&text=SoulEyez&fontSize=90&animation=twinkling&fontColor=000000&fontFamily=Monaco" alt="SoulEyez Header">
 
-  <!-- Tagline -->
   <p style="margin-top: 10px; font-size: 25px;">
-    The Pentester's Command-Line Sixth Sense <br> <i>See through the eyes of a Soul Hacker</i>
+    AI-Powered Penetration Testing Platform <br>
+    <i>See through the eyes of a Soul Hacker</i>
+  </p>
+
+  <p>
+    <strong>SoulEyez — Your penetration testing command center</strong>
+  </p>
+
+  <!-- Badges (adjust links as needed) -->
+  <p>
+    <img src="https://img.shields.io/badge/python-3.9%2B-blue" />
+    <img src="https://img.shields.io/badge/code%20style-black-000000" />
+    <img src="https://img.shields.io/badge/security-bandit-green" />
+    <img src="https://img.shields.io/badge/status-live-success" />
   </p>
 
 </div>
 
-## 🔥 What is SoulEyez? <br>
-**SoulEyez is a next-generation CLI toolkit for pentesters, designed to bring enhanced visibility, automation, intelligence, and speed to offensive security engagements.**
+---
 
-Built for _clarity_. Powered for _performance_. Crafted with _soul_.
+## 🧠 What is SoulEyez?
 
-This repo contains concept documentation, architecture foundations, and early components as we move toward our first **alpha release.**
+**SoulEyez is an AI-powered penetration testing platform that replaces chaotic terminal workflows with one organized command center.**
+
+Instead of juggling dozens of terminal windows, notes, and output files, SoulEyez gives you a **single, structured environment** to:
+
+- Run and chain security tools
+- Track findings, credentials, and evidence
+- Auto-discover next attack paths
+- Generate professional reports
+- Validate detections against SIEM platforms
+
+> ⚠️ **Authorization Required**  
+> SoulEyez must only be used on systems you own or have **explicit written permission** to test. Unauthorized scanning or exploitation is illegal.
 
 ---
 
-## 🧪 Project Status — *Work In Progress*
+## 🎯 Who Is This For?
 
-We’re actively building:
-- 🔧 Command-line engine  
-- 🧩 Modular plugin system  
-- 🚦 Environment-aware automation  
-- 🛡️ Safety checks & usage guardrails  
-- 🪜 Tiered pricing model (Free • Pro • Enterprise)
-- ⚙ Worker engine for background jobs
-- 🔑 Credential handling improvements
-- 🧠 AI-driven navigation + automation
-
-The repo will include:
-
-**/.github/workflows**- CI/CD automation  
-**/data**- Engagement data, storage models  
-**/docs**- Full documentation + chain rule priority explanations  
-**/msf_resources**- Metasploit modules, mappings, exploit data  
-**/souleyez**- Primary CLI source code + plugin system  
-**/tests**- Automated testing, AI execution, navigation helpers  
-**.bandit**- Security scanning configuration  
-**.env.example**- Environment variable template  
-**.flake8**- Linting rules  
-**.gitignore**- Git exclusions  
-**CHANGELOG.md**- Version history + enhancements  
-**LICENSE**- Open-source license  
-**Makefile**- Developer tooling  
-**OWASP_EXPANSION_SUMMARY.md**- Extended OWASP A03 coverage + presets  
-**SECURITY.md**- Security review + P2 hardening  
-**pyproject.toml**- Build + dependency configuration  
-**requirements.txt**- Python dependencies  
-**setup-git-hooks.sh**- Repo hygiene & dev workflow setup  
-**setup.py**- Package installer  
-
+- 🔐 Security professionals conducting authorized penetration tests  
+- 🧩 Blue teams validating detections and visibility  
+- 🏁 CTF players who want better organization during competitions  
+- 🎓 Students learning real-world penetration testing methodology  
 
 ---
+
 ## ⚙️ Core Capabilities
 
-🎯 Interactive Dashboard — Real-time engagement monitoring with live updates
+🎯 **Interactive Dashboard** — Real-time engagement monitoring with live updates  
+🔗 **Smart Tool Chaining** — Automatically suggest or run next tools based on discoveries  
+📊 **Findings Management** — Track and categorize vulnerabilities by severity  
+🔑 **Credential Vault** — Encrypted storage for discovered credentials  
+🌐 **Network Mapping** — Host discovery and service enumeration  
+📈 **Progress Tracking** — Monitor scan completion and execution state  
+💾 **SQLite Storage** — Local database for all engagement data  
+🔄 **Background Jobs** — Queue-based tool execution with status monitoring  
 
-🔗 Smart Tool Chaining — Automatic follow-up scans based on discoveries
+---
 
-📊 Findings Management — Track and categorize vulnerabilities by severity
+## 🧰 Integrated Tools (40+)
 
-🔑 Credential Tracking — Discover and organize enumerated usernames and passwords
+**Reconnaissance**
+- nmap, masscan, theHarvester, whois, dnsrecon
 
-🔐 Credential Encryption — Encrypt credential storage with master password protection
+**Web Testing**
+- nikto, gobuster, ffuf, sqlmap, nuclei, wpscan
 
-💥 Password Cracking — Offline hash cracking with Hashcat (300+ hash types)
+**Enumeration**
+- enum4linux-ng, smbmap, crackmapexec, snmpwalk
 
-🌐 Network Mapping — Host discovery and service enumeration
+**Exploitation**
+- Metasploit integration, searchsploit
 
-📈 Progress Tracking — Monitor scan completion and tool execution
+**Password Attacks**
+- hydra, hashcat, john
 
-💾 SQLite Storage — Local database for all engagement data
+**Post-Exploitation**
+- impacket suite, bloodhound
 
-🔄 Background Jobs — Queue-based tool execution with status monitoring
-
+---
 
 ## 🧠 Pentest Workflow & Intelligence
 
-📁 Evidence Vault — Unified artifact collection organized by PTES methodology phases
-
-🎯 Attack Surface Dashboard — Track exploited vs pending with priority scoring
-
-💣 Exploit Suggestions — Automatic CVE + Metasploit module recommendations for discovered services
-
-🔗 Correlation Engine — Cross-phase attack tracking and gap analysis
-
-📝 Report Generator — One-click professional reports in Markdown, HTML, and PDF
-
-✅ Deliverable Tracking — Manage testing requirements and acceptance criteria
-
-📸 Screenshot Management — Organized visual evidence by methodology phase
-
+📁 **Evidence Vault** — Artifacts organized by PTES phases  
+🎯 **Attack Surface Dashboard** — Exploited vs pending with priority scoring  
+💣 **Exploit Suggestions** — Automatic CVE + Metasploit recommendations  
+🔗 **Correlation Engine** — Cross-phase attack tracking and gap analysis  
+📝 **Report Generator** — Markdown, HTML, and PDF outputs  
+✅ **Deliverable Tracking** — Manage scope, requirements, and acceptance criteria  
+📸 **Screenshot Management** — Visual evidence organized by phase  
 
 ---
 
-## 🫱🏽‍🫲🏾 Contributing
+## 🛡️ SIEM Integration
 
-We welcome contributions from the community!  
-
-You can contribute by:
-- Opening issues  
-- Submitting PRs  
-- Suggesting features  
-- Prototyping ideas  
-- Improving docs
-
-**_Please review:_**
-  
-📄 **SECURITY.md** – security review details
-
-📄 **CHANGELOG.md** – latest updates
-
-📄 **docs/** – documentation and architecture insights
-
+🛡️ **SIEM Connectors** — Wazuh, Splunk, and other platforms  
+✓ **Detection Validation** — Verify whether attacks triggered alerts  
+🔍 **Vulnerability Management** — View CVEs from SIEM data  
+⚖️ **Gap Analysis** — Compare passive (SIEM) vs active (scan) findings  
+🗺️ **MITRE ATT&CK Reports** — Detection coverage heatmaps  
+📡 **Real-Time Alerts** — Monitor SIEM alerts during live engagements  
 
 ---
 
-## 🧠 Tech Vision
+## 💳 FREE vs PRO
 
-SoulEyez is built on three core principles:
-
-1. **Clarity** — Make offensive security work faster, safer, and easier  
-2. **Power** — Provide supercharged CLI functionality  
-3. **Soul** — Tools should feel good to use, not just functional  
+| Feature | FREE | PRO |
+|------|------|-----|
+| Core scans, findings, credentials | ✅ | ✅ |
+| Report generation | ✅ | ✅ |
+| AI-powered suggestions & auto-chaining | ❌ | ✅ |
+| Metasploit integration | ❌ | ✅ |
+| SIEM integration & detection validation | ❌ | ✅ |
+| MITRE ATT&CK reports | ❌ | ✅ |
 
 ---
 
-## 📲 Contact
+## 🚀 Quick Start
 
-**CyberSoul SecurITy**  
-_Creator of SoulEyez_  
-📧 Email: cysoul.secit@gmail.com  
-🌐 Website: https://cybersoulsecurity.com  
+check out https://pypi.org/project/souleyez/ 
 
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:87CEEB&height=200&section=footer&reversal=false" alt="SoulEyez Footer" />
-</p>
 
+
+<!-- ================= FOOTER ================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:87CEEB&height=200&section=footer" /> </p> ```
